@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name: "hyungjin haam"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.png"
+  avatar: "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.png"
   bio: "Full Stack Developer"
   location: "Gyeonggi-do"
   email: "hyungjinnh@gmail.com"
@@ -270,13 +270,13 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: foo
     values:
       show_date: true
       date_format: "%Y-%m-%d"
       layout: single
       author_profile: true
-      read_time: false
+      read_time: true
       comments: true
       share: true
       related: true
