@@ -1,2 +1,4 @@
 User-agent: *
-Allow: 
+Allow: /
+
+Sitemap: https://hyungJinn.github.io/sitemap.xml
