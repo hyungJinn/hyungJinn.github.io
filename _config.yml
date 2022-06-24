@@ -101,9 +101,9 @@ analytics:
 
 # Site Author
 author:
-  name: "hyungjin haam"
+  name: "haam"
   avatar: "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.png"
-  bio: "Full Stack Developer"
+  bio: "Freelancer"
   location: "Gyeonggi-do"
   email: "hyungjinnh@gmail.com"
   links:
