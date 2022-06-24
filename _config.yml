@@ -16,11 +16,11 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "ko"
-title: "hyungJinn"
+title: "HAAM's BLOG"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "hyungJinn"
-description: "Full Stack Developer"
+description: "freelance web developer"
 url: "https://hyungjinn.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog" "/hyungjinn"
 repository: "hyungJinn/hyungJinn.github.io" # GitHub username/repo-name e.g.
@@ -94,16 +94,16 @@ social:
 
 # Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: google-universal # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id:
+    tracking_id: G-0QZJZKFJJ2
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-  name: "hyungjin haam"
+  name: "haam"
   avatar: "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.png"
-  bio: "Full Stack Developer"
+  bio: "freelance web developer"
   location: "Gyeonggi-do"
   email: "hyungjinnh@gmail.com"
   links:
