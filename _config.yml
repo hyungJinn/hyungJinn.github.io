@@ -16,11 +16,11 @@ minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon"
 
 # Site Settings
 locale: "ko"
-title: "hyungJinn"
+title: "HAAM'S BLOG"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "hyungJinn"
-description: "Full Stack Developer"
+description: "freelance web developer"
 url: "https://hyungjinn.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog" "/hyungjinn"
 repository: "hyungJinn/hyungJinn.github.io" # GitHub username/repo-name e.g.
